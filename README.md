@@ -1,24 +1,7 @@
-# README
+# Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Introduction to Ruby on Rails through the chapter 2 of the book (https://www.railstutorial.org)[RailsTutorial] by Michael Hartl. Done for the Microverse Curriculum.
 
-Things you may want to cover:
+## Live version
+Click (https://sergio-toy-app.herokuapp.com)[here] for a live demonstration.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
